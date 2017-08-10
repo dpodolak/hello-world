@@ -2,6 +2,8 @@
 test for creating a repository
 
 wow this is pretty easy. nice work!
-i'm not sure about the beta desktop.
 
 okay now what?
+
+
+i want to addd this
